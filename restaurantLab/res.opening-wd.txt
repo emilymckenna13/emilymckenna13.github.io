@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mondo Vecchio Pizzeria</title>
+  <div style="text-align:center">
+  </head>
+  <style>
+  #menu {
+  background-color:#BC8F8F;
+  }
+  </style>
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/pLFVGqG/Screenshot-2019-11-12-Free-Logo-Maker-Create-your-own-logo-in-minutes.png" alt="pizza logo" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+  <body style="background-color:#a38884">
+  <font size="+10">
+    <h1>Mondo Vecchio Pizzeria</h1>
+<body>
+  <div style="text-align:center; color:#cdc188; background-color:#e0d6d5"> <body>
+    <font size="+5">
+    <p style="font-family:'Courier New'">A pizza joint with old world style.</p>
+   <div>
+   <h3 style=color:#9e665f; background-color:#9e665f">Come Visit Us!</h3>
+   <font size="+1">
+    <p>312 S. Main St., Fall River, MA</p>
+    <font size="+1">
+    <font size="-1"><p>Lost? <a href="https://www.google.com/maps/dir/Somerset,+MA/312+S+Main+St,+Fall+River,+MA+02721/@41.7336714,-71.1936048,13z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x89e4f847232bb7f5:0x6f4d3da9a2c636be!2m2!1d-71.1286194!2d41.7695425!1m5!1m1!1s0x89e4f8c2c01c3377:0x258fbd09e115841b!2m2!1d-71.1584389!2d41.6983409">Click here for directions!</a></p>
+   <font size="+2">
+    <p>Contact information: <a href="mailto:admin@vecchiopizza.com">admin@vecciopizza.com</a></p>
+    <p>774-MVP-IZZA</p>
+    <p>Hours of operation:</p>
+  <font size="+1">
+  <ol style="list-style-type:none;">
+ <li>Sunday: 11am – 5pm</li>
+  <li>Monday: Closed</li>
+  <li>Tuesday-Wednesday: 11am – 9pm</li>
+  <li>Thursday-Sat: 11am – 2am</li>
+</ol> 
+   <font size="+4">
+   </div>
+   <div>
+   <h3 id="menu"> Menu<br>
+</html><a href="https://ygdygik.smugmug.com/Web-Design/i-5pJVJKt/A"><img src="https://photos.smugmug.com/Web-Design/i-5pJVJKt/0/33529256/M/mpizza-wd.html-M.jpg" alt="margpizza" width="500" height="500"></a>
+<a href="https://ygdygik.smugmug.com/Web-Design/i-NwRHTVH/A"><img src="https://photos.smugmug.com/Web-Design/i-NwRHTVH/0/b453aecd/M/calzone-wd.html-M.jpg" alt="calzone" width="500" height="500"></a>
+<a href="https://ygdygik.smugmug.com/Web-Design/i-DVzBxMv/A"><img src="https://photos.smugmug.com/Web-Design/i-DVzBxMv/0/bf812481/M/p%2Bmpizza-wd.html-M.jpg" alt="mppizza" width="500" height="500"></a></h3>
+</div>
+    <div style="background-color:#7c7453"> 
+    <h4>Follow us on social media for special offers and new additions to our menu!</h4>
+</body>
